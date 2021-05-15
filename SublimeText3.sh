@@ -1,4 +1,6 @@
-#запрет обновлений
+#####################
+# запрет обновлений #
+#####################
 
 C:\Windows\System32\drivers\etc\hosts
 /etc/hosts
@@ -13,7 +15,9 @@ C:\Windows\System32\drivers\etc\hosts
 0.0.0.0 45.55.255.55
 0.0.0.0 45.55.41.223
 
-#лицензия
+############
+# лицензия #
+############
 
 help → enter licence
 
@@ -31,7 +35,9 @@ DD9AF44B 99C49590 D2DBDEE1 75860FD2
 8C8BB2AD B2ECE5A4 EFC08AF2 25A9B864
 ------ END LICENSE ------
 
-#конфиг
+##########
+# конфиг #
+##########
 
 preferences → settings
 ⌘,
@@ -45,7 +51,9 @@ preferences → settings
 	"update_check": false
 }
 
-#пакетный менеджер
+###########
+# плагины #
+###########
 
 Package Control
 
