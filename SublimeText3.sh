@@ -64,7 +64,7 @@ preferences → settings
 # плагины #
 ###########
 
-Package Control
+⌘⇧p → install package
 
 ini
 nginx
