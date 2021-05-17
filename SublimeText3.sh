@@ -69,3 +69,5 @@ Package Control
 ini
 nginx
 emmet
+json reindent
+BracketHighlighter
