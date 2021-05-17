@@ -64,6 +64,7 @@ preferences → settings
 # плагины #
 ###########
 
+⌘⇧p → install package control
 ⌘⇧p → install package
 
 ini
