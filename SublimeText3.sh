@@ -43,12 +43,21 @@ preferences → settings
 ⌘,
 
 {
-	"font_size": 14,
+	"update_check": false,
+	"fallback_encoding": "Cyrillic (Windows 1251)",
+
+	"font_face": "JetBrains Mono",
+	"font_size": 17,
+
+	"theme": "Default.sublime-theme",
+	"word_wrap": true,
+
+	"fade_fold_buttons": false,
+
 	"ignored_packages":
 	[
 		"Vintage"
-	],
-	"update_check": false
+	]
 }
 
 ###########
