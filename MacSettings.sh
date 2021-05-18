@@ -16,6 +16,8 @@ alias non-apple='kextstat | grep -v com.apple'
 alias unlock='defaults write com.apple.dock contents-immutable -bool false && killall Dock'
 alias lock='defaults write com.apple.dock contents-immutable -bool true && killall Dock'
 
+source .zshrc
+
 ###########
 # утилиты #
 ###########
