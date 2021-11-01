@@ -14,11 +14,29 @@
 0.0.0.0      45.55.255.55
 0.0.0.0      45.55.41.223
 
+##########################
+# конфетка (версия 4121) #
+##########################
+
+----BEGIN LICENSE-----
+TNT Team
+Unlimited User License
+EA7E-2010859462
+6C5E525261BC8146AAAC8783279A74F5
+57BF1CB0C1944B5517D42C38DB2282F2
+E047071E334FEF878FFF09A3BB2B787B
+06CE14F6DDAFB7A8C1123C226C250323
+B45CC6567A2575668B94A3ACB773D963
+ED045D9F798CC023694AF1467FD51C75
+B05B81C8B226863915DC1140ADB97EC4
+1CFA3B0FD72AACB8DBA7B6204A7AC4C2
+-----END LICENSE-----
+
 ###################################
 # патч в две замены (версия 4113) #
 ###################################
 
-#патч руками
+#патч руками (Windows)
 https://hexed.it/
 
 C3 C6 01 00 C3    =>    C3 C6 01 01 C3
@@ -26,26 +44,6 @@ C3 C6 01 00 C3    =>    C3 C6 01 01 C3
 
 #патч не руками
 sed -b -i s/1234/abcd /directory/file
-
-######################
-# лицензия от тройки #
-######################
-
-help → enter licence
-
------ BEGIN LICENSE -----
-Member J2TeaM
-Single User License
-EA7E-1011316
-D7DA350E 1B8B0760 972F8B60 F3E64036
-B9B4E234 F356F38F 0AD1E3B7 0E9C5FAD
-FA0A2ABE 25F65BD8 D51458E5 3923CE80
-87428428 79079A01 AA69F319 A1AF29A4
-A684C2DC 0B1583D4 19CBD290 217618CD
-5653E0A0 BACE3948 BB2EE45E 422D2C87
-DD9AF44B 99C49590 D2DBDEE1 75860FD2
-8C8BB2AD B2ECE5A4 EFC08AF2 25A9B864
------- END LICENSE ------
 
 ##########
 # конфиг #
